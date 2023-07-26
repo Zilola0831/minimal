@@ -97,7 +97,6 @@ header .container .header-text a {
 header .container .imgs {
   display: flex;
   justify-content: space-between;
-  flex-wrap: wrap;
 }
 header .container .imgs .img1 {
   max-width: 626px;
